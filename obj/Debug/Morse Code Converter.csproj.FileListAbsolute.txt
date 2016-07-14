@@ -1,0 +1,18 @@
+c:\users\sy\documents\visual studio 2015\Projects\Morse Code Converter\Morse Code Converter\bin\Debug\Morse Code Converter.exe.config
+C:\Users\Sy\Documents\Visual Studio 2015\Projects\Morse Code Converter\Morse Code Converter\bin\Debug\Morse Code Converter.exe
+C:\Users\Sy\Documents\Visual Studio 2015\Projects\Morse Code Converter\Morse Code Converter\bin\Debug\Morse Code Converter.pdb
+C:\Users\Sy\Documents\Visual Studio 2015\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.csprojResolveAssemblyReference.cache
+C:\Users\Sy\Documents\Visual Studio 2015\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse_Code_Converter.Form1.resources
+C:\Users\Sy\Documents\Visual Studio 2015\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse_Code_Converter.Properties.Resources.resources
+C:\Users\Sy\Documents\Visual Studio 2015\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.csproj.GenerateResource.Cache
+C:\Users\Sy\Documents\Visual Studio 2015\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.exe
+C:\Users\Sy\Documents\Visual Studio 2015\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.pdb
+C:\Users\Sy\Documents\SPC Projects\Intro To C#\Projects\Morse Code Converter\Morse Code Converter\bin\Debug\Morse Code Converter.exe.config
+C:\Users\Sy\Documents\SPC Projects\Intro To C#\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.exe
+C:\Users\Sy\Documents\SPC Projects\Intro To C#\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.pdb
+C:\Users\Sy\Documents\SPC Projects\Intro To C#\Projects\Morse Code Converter\Morse Code Converter\bin\Debug\Morse Code Converter.exe
+C:\Users\Sy\Documents\SPC Projects\Intro To C#\Projects\Morse Code Converter\Morse Code Converter\bin\Debug\Morse Code Converter.pdb
+C:\Users\Sy\Documents\SPC Projects\Intro To C#\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.csprojResolveAssemblyReference.cache
+C:\Users\Sy\Documents\SPC Projects\Intro To C#\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse_Code_Converter.Form1.resources
+C:\Users\Sy\Documents\SPC Projects\Intro To C#\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse_Code_Converter.Properties.Resources.resources
+C:\Users\Sy\Documents\SPC Projects\Intro To C#\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.csproj.GenerateResource.Cache
